@@ -25,7 +25,8 @@ on:
           - 'RisingOS 14'
           - 'LineageOS 18.1'
           - 'LineageOS 16.0'
-          - 'CyanogenMOD 14.1'
+          - 'Infinity-X'
+
       BUILD_DIFFERENT_ROM:
         description: "Command to initialize a different 'repo' project:"
         required: false
